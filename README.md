@@ -4,7 +4,7 @@
 🚀 Passionate **Data Analyst** skilled in Power BI, SQL, Excel, python and storytelling with data  
 📊 Capstone Projects: Hyperpure Sales Analysis | Coffee Bean Chain Performance  
 🌱 Currently enhancing my skills in Machine learning for data automation  
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shweta--sahay/) | [Email](shwetashah352@gmail.com)
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shweta--sahay/) | [Email] : shwetashah352@gmail.com
 
 ---
 
