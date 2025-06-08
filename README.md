@@ -1,13 +1,18 @@
-<h1 align="center">Hi 👋, I'm Shweta</h1>
-<h3 align="center">An Aspiring Data analyst from India</h3>
+# Hi there 👋
 
-- 🌱 I’m currently learning **Machine learning**
 
-- 📫 How to reach me **Shwetashah352@gmail.com**
+🚀 Passionate **Data Analyst** skilled in Power BI, SQL, Excel, python and storytelling with data  
+📊 Capstone Projects: Hyperpure Sales Analysis | Coffee Bean Chain Performance  
+🌱 Currently enhancing my skills in Machine learning for data automation  
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shweta--sahay/) | [Email](mailto:shwetashah352@gmail.com)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### ✨ Tools & Skills
+- **Power BI** – DAX, data modeling, KPI dashboards  
+- **SQL** – Joins, Subqueries, Aggregates  
+- **Python** – Pandas, Matplotlib
+- **Excel** – Pivot Tables, Charts, VLOOKUP
+- **Machine Learning** – Supervised & Unsupervised Learning, Regression, Classification, Clustering (Learning phase) 
+
+
